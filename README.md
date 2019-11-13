@@ -5,7 +5,6 @@ use MoviePy demo code
 command line
 
 ```
-$ cd demo_movie_py
-$ cd dir
+$ cd demo_movie_py/dir
 $ python script.py
 ```
